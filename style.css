@@ -11,12 +11,16 @@
     column-gap: 10px;
     row-gap: 5px;
     text-align: center;
+    left: 50%;
+    top: 50%;
+    
     
 }
 header{
     background-color: #FE8515;
     grid-area: header;
     color: white;
+    
 }
 .leftsidebar{
     background-color: #7FC242;
